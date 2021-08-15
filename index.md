@@ -6,21 +6,22 @@ Hello! I am a third year Ph.D. student at the Robotics Institute at Carnegie Mel
 My reserch interests lie in exploring differentiable control algorithms for learning robot control in sensory-deprived environments for achieving dynamic and contact-rich tasks.
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Link to another page](./another-page.html).
+<!-- [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. -->
+
+## Research
+**Learning Reactive and Predictive Differentiable Controllers for Switching Linear Dynamical Models**
+Saumya Saxena, Alex LaGrassa, Oliver Kroemer. International Conference on Robotics and Automation (ICRA). May 2021
+
 
 ### Header 3
 
