@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
+Hello! I am a third year Ph.D. student at the Robotics Institute at Carnegie Mellon University and am advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/).
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+My reserch interests lie in exploring differentiable control algorithms for learning robot control in sensory-deprived environments for achieving dynamic and contact-rich tasks.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 [Link to another page](./another-page.html).
 
