@@ -37,7 +37,7 @@ Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, 
 
 Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, **Saumya Saxena**, Mengyun Xu, Kartik Patath and Howie Choset. Proceedings of International Symposium on Medical Robotics (ISMR), March 2018.
 
-### Header 3
+<!-- ### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -137,4 +137,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
