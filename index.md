@@ -3,7 +3,9 @@ layout: default
 ---
 Hello! I am a third year Ph.D. student at the Robotics Institute at Carnegie Mellon University and am advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/).
 
-My reserch interests lie in exploring differentiable control algorithms for learning robot control in sensory-deprived environments for achieving dynamic and contact-rich tasks.
+My reserch interests lie in using differentiable control algorithms for learning robot control in sensory-deprived environments for achieving dynamic and contact-rich tasks.
+
+Prior to joining the Ph.D. program, I worked under the supervision of [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/)
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 <!-- [Link to another page](./another-page.html).
@@ -20,8 +22,20 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Research
 **Learning Reactive and Predictive Differentiable Controllers for Switching Linear Dynamical Models**
-Saumya Saxena, Alex LaGrassa, Oliver Kroemer. International Conference on Robotics and Automation (ICRA). May 2021
 
+**Saumya Saxena**, Alex LaGrassa, Oliver Kroemer. International Conference on Robotics and Automation (ICRA), May 2021.
+
+**Learning Active Task-Oriented Exploration Policies for Bridging the Sim-to-Real Gap**
+
+Jacky Liang, **Saumya Saxena**, Oliver Kroemer. Robotics: Science and Systems (RSS), July 2020.
+
+**A Real-time Augmented Reality Surgical System for Overlaying Stiffness Information**
+
+Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, **Saumya Saxena**, Mengyun Xu, Kartik Patath and Howie Choset. Proceedings of Robotics: Science and Systems (RSS), June 2018.
+
+**A surgical system for automatic registration, stiffness mapping and dynamic image overlay**
+
+Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, **Saumya Saxena**, Mengyun Xu, Kartik Patath and Howie Choset. Proceedings of International Symposium on Medical Robotics (ISMR), March 2018.
 
 ### Header 3
 
