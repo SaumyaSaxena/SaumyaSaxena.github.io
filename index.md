@@ -37,6 +37,20 @@ Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, 
 
 Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, **Saumya Saxena**, Mengyun Xu, Kartik Patath and Howie Choset. Proceedings of International Symposium on Medical Robotics (ISMR), March 2018.
 
+## Technical Reports
+
+**Motion planning under uncertainty and sensing limitations using exploration versus exploitation**
+
+**Saumya Saxena**, Matthew Travers, Howie Choset. Masters Thesis report, August 2019.
+
+**Coverage Using Graph-based Motion Planning for Autonomous Exploration Of Non-uniform Environments**
+
+**Saumya Saxena**. May 2018.
+
+**CatAstroφ - Inertial reorientation of a freely falling cat using non-holonomic motion planning**
+
+**Saumya Saxena**, Alexander Duncan, Andreas Fatschel, Dimitrios Nikitopoulos, Steven Crews. May 2018.
+
 <!-- ### Header 3
 
 ```js
