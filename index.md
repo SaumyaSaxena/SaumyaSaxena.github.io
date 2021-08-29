@@ -5,7 +5,7 @@ Hello! I am a third year Ph.D. student at the Robotics Institute at Carnegie Mel
 
 My reserch interests lie in using differentiable optimal and robust control algorithms for learning robot control in sensory-deprived environments for achieving dynamic and interactive tasks. My long-term goal is to develop control paradigms for assistive robotic systems in the real-world and equip robots with skills that demonstrate their ability to work alongside humans in an assistive and caregiving role. I believe that for real-world application of robotics in everyday tasks, it is imperative that we take inspiration from humans and develop systems and control methodologies that utilize robot full body dynamics and support from the environment while ensuring implicit metrics of safety.
 
-Prior to joining the Ph.D. program, I worked under the supervision of [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) and [Dr. Matt Travers](https://www.ri.cmu.edu/ri-faculty/matthew-j-travers/) on developing a belief space planning framework for utilizing contacts to reduce uncertainty by combining the exploration benefits of sampling-based methods and the exploitation benefits of optimization-based approaches.
+Prior to joining the Ph.D. program, I worked under the supervision of [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) and [Dr. Matthew Travers](https://www.ri.cmu.edu/ri-faculty/matthew-j-travers/) on developing a belief space planning framework for utilizing contacts to reduce uncertainty by combining the exploration benefits of sampling-based methods and the exploitation benefits of optimization-based approaches.
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 <!-- [Link to another page](./another-page.html).
@@ -41,15 +41,15 @@ Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, 
 
 **Motion planning under uncertainty and sensing limitations using exploration versus exploitation**
 
-**Saumya Saxena**, Matthew Travers, Howie Choset. Masters Thesis report, August 2019.
+**Saumya Saxena**, Matthew Travers, Howie Choset. Masters Thesis report, August 2019. [Report](https://drive.google.com/file/d/1kAYCjeb86sbVWK4X0whL1eV5EPNjI78V/view?usp=sharing)
 
 **Coverage Using Graph-based Motion Planning for Autonomous Exploration Of Non-uniform Environments**
 
-**Saumya Saxena**. May 2018.
+**Saumya Saxena**. May 2018. [Report](https://drive.google.com/file/d/1LkqrmiertXgmVSREExRnlyK5FkVRbSud/view?usp=sharing) [Video](https://drive.google.com/file/d/1Ol9Tc4U2Lroy83n4GGqObIbyRGPclQ4O/view?usp=sharing) [Video](https://drive.google.com/file/d/1HLx9kexSj51lCgQDWbKTUhiKoV_OwcP_/view?usp=sharing)
 
 **CatAstroφ - Inertial reorientation of a freely falling cat using non-holonomic motion planning**
 
-**Saumya Saxena**, Alexander Duncan, Andreas Fatschel, Dimitrios Nikitopoulos, Steven Crews. May 2018.
+Alexander Duncan, Andreas Fatschel, Dimitrios Nikitopoulos, **Saumya Saxena**, Steven Crews. May 2018. [Report](https://drive.google.com/file/d/1qHJ_t6SNZkC1sCOxAq9uNS1zJE4qkoS9/view?usp=sharing) [Video](https://drive.google.com/file/d/1Y9qLSmUb8ITWFFgnvX_j1NhUI2w8AhEf/view?usp=sharing)
 
 <!-- ### Header 3
 
