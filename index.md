@@ -3,9 +3,9 @@ layout: default
 ---
 Hello! I am a third year Ph.D. student at the Robotics Institute at Carnegie Mellon University and am advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/).
 
-My reserch interests lie in using differentiable control algorithms for learning robot control in sensory-deprived environments for achieving dynamic and contact-rich tasks.
+My reserch interests lie in using differentiable optimal and robust control algorithms for learning robot control in sensory-deprived environments for achieving dynamic and interactive tasks. My long-term goal is to develop control paradigms for assistive robotic systems in the real-world and equip robots with skills that demonstrate their ability to work alongside humans in an assistive and caregiving role. I believe that for real-world application of robotics in everyday tasks, it is imperative that we take inspiration from humans and develop systems and control methodologies that utilize robot full body dynamics and support from the environment while ensuring implicit metrics of safety.
 
-Prior to joining the Ph.D. program, I worked under the supervision of [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/)
+Prior to joining the Ph.D. program, I worked under the supervision of [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) and [Dr. Matt Travers](https://www.ri.cmu.edu/ri-faculty/matthew-j-travers/) on developing a belief space planning framework for utilizing contacts to reduce uncertainty by combining the exploration benefits of sampling-based methods and the exploitation benefits of optimization-based approaches.
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 <!-- [Link to another page](./another-page.html).
