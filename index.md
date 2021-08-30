@@ -22,15 +22,19 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Research
 **Learning Reactive and Predictive Differentiable Controllers for Switching Linear Dynamical Models**
-**Saumya Saxena**, Alex LaGrassa, Oliver Kroemer. International Conference on Robotics and Automation (ICRA), May 2021. [[Link]](https://arxiv.org/abs/2103.14256) [[Video]](https://drive.google.com/file/d/1h6rUuUggg2_t061J_DMKME4cLBj12fAG/view?usp=sharing)
+
+**Saumya Saxena**, Alex LaGrassa, Oliver Kroemer. International Conference on Robotics and Automation (ICRA), May 2021. <div style="text-align: right">[[Link]](https://arxiv.org/abs/2103.14256) [[Video]](https://drive.google.com/file/d/1h6rUuUggg2_t061J_DMKME4cLBj12fAG/view?usp=sharing)</div>
 
 **Learning Active Task-Oriented Exploration Policies for Bridging the Sim-to-Real Gap**
+
 Jacky Liang, **Saumya Saxena**, Oliver Kroemer. Robotics: Science and Systems (RSS), July 2020. [[Link]](https://arxiv.org/abs/2006.01952) [[Website]](https://sites.google.com/view/task-oriented-exploration/)
 
 **A Real-time Augmented Reality Surgical System for Overlaying Stiffness Information**
+
 Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, **Saumya Saxena**, Mengyun Xu, Kartik Patath and Howie Choset. Proceedings of Robotics: Science and Systems (RSS), June 2018. [[Link]](http://www.roboticsproceedings.org/rss14/p26.pdf)
 
 **A surgical system for automatic registration, stiffness mapping and dynamic image overlay**
+
 Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, **Saumya Saxena**, Mengyun Xu, Kartik Patath and Howie Choset. Proceedings of International Symposium on Medical Robotics (ISMR), March 2018. [[Link]](https://arxiv.org/abs/1711.08828) [[Video]](https://www.youtube.com/watch?v=IM5ffxARPs8)
 
 ## Technical Reports
