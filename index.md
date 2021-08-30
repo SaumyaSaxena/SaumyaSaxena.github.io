@@ -22,30 +22,30 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Research
 **Learning Reactive and Predictive Differentiable Controllers for Switching Linear Dynamical Models**
-**Saumya Saxena**, Alex LaGrassa, Oliver Kroemer. International Conference on Robotics and Automation (ICRA), May 2021. [Link](https://arxiv.org/abs/2103.14256) [Video](https://drive.google.com/file/d/1h6rUuUggg2_t061J_DMKME4cLBj12fAG/view?usp=sharing)
+**Saumya Saxena**, Alex LaGrassa, Oliver Kroemer. International Conference on Robotics and Automation (ICRA), May 2021. [[Link]](https://arxiv.org/abs/2103.14256) [[Video]](https://drive.google.com/file/d/1h6rUuUggg2_t061J_DMKME4cLBj12fAG/view?usp=sharing)
 
 **Learning Active Task-Oriented Exploration Policies for Bridging the Sim-to-Real Gap**
-Jacky Liang, **Saumya Saxena**, Oliver Kroemer. Robotics: Science and Systems (RSS), July 2020. [Link](https://arxiv.org/abs/2006.01952) [Website](https://sites.google.com/view/task-oriented-exploration/)
+Jacky Liang, **Saumya Saxena**, Oliver Kroemer. Robotics: Science and Systems (RSS), July 2020. [[Link]](https://arxiv.org/abs/2006.01952) [[Website]](https://sites.google.com/view/task-oriented-exploration/)
 
 **A Real-time Augmented Reality Surgical System for Overlaying Stiffness Information**
-Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, **Saumya Saxena**, Mengyun Xu, Kartik Patath and Howie Choset. Proceedings of Robotics: Science and Systems (RSS), June 2018. [Link](http://www.roboticsproceedings.org/rss14/p26.pdf)
+Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, **Saumya Saxena**, Mengyun Xu, Kartik Patath and Howie Choset. Proceedings of Robotics: Science and Systems (RSS), June 2018. [[Link]](http://www.roboticsproceedings.org/rss14/p26.pdf)
 
 **A surgical system for automatic registration, stiffness mapping and dynamic image overlay**
-Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, **Saumya Saxena**, Mengyun Xu, Kartik Patath and Howie Choset. Proceedings of International Symposium on Medical Robotics (ISMR), March 2018. [Link](https://arxiv.org/abs/1711.08828) [Video](https://www.youtube.com/watch?v=IM5ffxARPs8)
+Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, **Saumya Saxena**, Mengyun Xu, Kartik Patath and Howie Choset. Proceedings of International Symposium on Medical Robotics (ISMR), March 2018. [[Link]](https://arxiv.org/abs/1711.08828) [[Video]](https://www.youtube.com/watch?v=IM5ffxARPs8)
 
 ## Technical Reports
 
 **Motion planning under uncertainty and sensing limitations using exploration versus exploitation**
 
-**Saumya Saxena**, Matthew Travers, Howie Choset. Masters Thesis report, August 2019. [Report](https://drive.google.com/file/d/1kAYCjeb86sbVWK4X0whL1eV5EPNjI78V/view?usp=sharing)
+**Saumya Saxena**, Matthew Travers, Howie Choset. Masters Thesis report, August 2019. [[Report]](https://drive.google.com/file/d/1kAYCjeb86sbVWK4X0whL1eV5EPNjI78V/view?usp=sharing)
 
 **Coverage Using Graph-based Motion Planning for Autonomous Exploration Of Non-uniform Environments**
 
-**Saumya Saxena**. May 2018. [Report](https://drive.google.com/file/d/1LkqrmiertXgmVSREExRnlyK5FkVRbSud/view?usp=sharing) [Video](https://drive.google.com/file/d/1Ol9Tc4U2Lroy83n4GGqObIbyRGPclQ4O/view?usp=sharing) [Video](https://drive.google.com/file/d/1HLx9kexSj51lCgQDWbKTUhiKoV_OwcP_/view?usp=sharing)
+**Saumya Saxena**. May 2018. [[Report]](https://drive.google.com/file/d/1LkqrmiertXgmVSREExRnlyK5FkVRbSud/view?usp=sharing) [[Video]](https://drive.google.com/file/d/1Ol9Tc4U2Lroy83n4GGqObIbyRGPclQ4O/view?usp=sharing) [[Video]](https://drive.google.com/file/d/1HLx9kexSj51lCgQDWbKTUhiKoV_OwcP_/view?usp=sharing)
 
 **CatAstroφ - Inertial reorientation of a freely falling cat using non-holonomic motion planning**
 
-Alexander Duncan, Andreas Fatschel, Dimitrios Nikitopoulos, **Saumya Saxena**, Steven Crews. May 2018. [Report](https://drive.google.com/file/d/1qHJ_t6SNZkC1sCOxAq9uNS1zJE4qkoS9/view?usp=sharing) [Video](https://drive.google.com/file/d/1Y9qLSmUb8ITWFFgnvX_j1NhUI2w8AhEf/view?usp=sharing)
+Alexander Duncan, Andreas Fatschel, Dimitrios Nikitopoulos, **Saumya Saxena**, Steven Crews. May 2018. [[Report]](https://drive.google.com/file/d/1qHJ_t6SNZkC1sCOxAq9uNS1zJE4qkoS9/view?usp=sharing) [[Video]](https://drive.google.com/file/d/1Y9qLSmUb8ITWFFgnvX_j1NhUI2w8AhEf/view?usp=sharing)
 
 <!-- ### Header 3
 
