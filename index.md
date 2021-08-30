@@ -23,7 +23,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ## Research
 **Learning Reactive and Predictive Differentiable Controllers for Switching Linear Dynamical Models**
 
-**Saumya Saxena**, Alex LaGrassa, Oliver Kroemer. International Conference on Robotics and Automation (ICRA), May 2021. <div align="right"> [[Link]](https://arxiv.org/abs/2103.14256) [[Video]](https://drive.google.com/file/d/1h6rUuUggg2_t061J_DMKME4cLBj12fAG/view?usp=sharing) </div>
+**Saumya Saxena**, Alex LaGrassa, Oliver Kroemer. International Conference on Robotics and Automation (ICRA), May 2021. [[Link]](https://arxiv.org/abs/2103.14256) [[Video]](https://drive.google.com/file/d/1h6rUuUggg2_t061J_DMKME4cLBj12fAG/view?usp=sharing)
 
 **Learning Active Task-Oriented Exploration Policies for Bridging the Sim-to-Real Gap**
 
@@ -45,7 +45,7 @@ Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, 
 
 **Coverage Using Graph-based Motion Planning for Autonomous Exploration Of Non-uniform Environments**
 
-**Saumya Saxena**. May 2018. [[Report]](https://drive.google.com/file/d/1LkqrmiertXgmVSREExRnlyK5FkVRbSud/view?usp=sharing) [[Video]](https://drive.google.com/file/d/1Ol9Tc4U2Lroy83n4GGqObIbyRGPclQ4O/view?usp=sharing) [[Video]](https://drive.google.com/file/d/1HLx9kexSj51lCgQDWbKTUhiKoV_OwcP_/view?usp=sharing)
+**Saumya Saxena**. May 2018. [[Report]](https://drive.google.com/file/d/1LkqrmiertXgmVSREExRnlyK5FkVRbSud/view?usp=sharing) [[Video1]](https://drive.google.com/file/d/1Ol9Tc4U2Lroy83n4GGqObIbyRGPclQ4O/view?usp=sharing) [[Video2]](https://drive.google.com/file/d/1HLx9kexSj51lCgQDWbKTUhiKoV_OwcP_/view?usp=sharing)
 
 **CatAstroφ - Inertial reorientation of a freely falling cat using non-holonomic motion planning**
 
