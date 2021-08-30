@@ -24,7 +24,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 **Learning Reactive and Predictive Differentiable Controllers for Switching Linear Dynamical Models**
 
 **Saumya Saxena**, Alex LaGrassa, Oliver Kroemer. International Conference on Robotics and Automation (ICRA), May 2021. 
-<div style="text-align: right">[[Link]](https://arxiv.org/abs/2103.14256) [[Video]](https://drive.google.com/file/d/1h6rUuUggg2_t061J_DMKME4cLBj12fAG/view?usp=sharing)</div>
+<p style="text-align: right">[[Link]](https://arxiv.org/abs/2103.14256) [[Video]](https://drive.google.com/file/d/1h6rUuUggg2_t061J_DMKME4cLBj12fAG/view?usp=sharing)</p>
 
 **Learning Active Task-Oriented Exploration Policies for Bridging the Sim-to-Real Gap**
 
