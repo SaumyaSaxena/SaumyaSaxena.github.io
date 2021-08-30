@@ -4,3 +4,25 @@ logo: /images/iceberg_lake.jpg
 # show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+# Site Author
+author:
+  links:
+    - label: "blakeb@andrew.cmu.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:your.name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/blakerbuchanan"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/blakerbuchanan/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/blakerbuchanan"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
