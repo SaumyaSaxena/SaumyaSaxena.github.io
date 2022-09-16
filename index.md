@@ -3,7 +3,7 @@ layout: default
 ---
 Hello! I am a third year Ph.D. student at the Robotics Institute at Carnegie Mellon University and am advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/).
 
-My reserch interests lie in using differentiable optimal and robust control algorithms for learning robot control in sensory-deprived environments for achieving dynamic and interactive tasks. My long-term goal is to develop control paradigms for assistive robotic systems in the real-world and equip robots with skills that demonstrate their ability to work alongside humans in an assistive and caregiving role. I believe that for real-world application of robotics in everyday tasks, it is imperative that we take inspiration from humans and develop systems and control methodologies that utilize robot full body dynamics and support from the environment while ensuring implicit metrics of safety.
+My research interests lie in using differentiable optimal and robust control algorithms for learning robot control in sensory-deprived environments for achieving dynamic and interactive tasks. My long-term goal is to develop control paradigms for assistive robotic systems in the real-world and equip robots with skills that demonstrate their ability to work alongside humans in an assistive and caregiving role. I believe that for real-world application of robotics in everyday tasks, it is imperative that we take inspiration from humans and develop systems and control methodologies that utilize robot full body dynamics and support from the environment while ensuring implicit metrics of safety.
 
 Prior to joining the Ph.D. program, I worked under the supervision of [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) and [Dr. Matthew Travers](https://www.ri.cmu.edu/ri-faculty/matthew-j-travers/) on developing a belief space planning framework for utilizing contacts to reduce uncertainty by combining the exploration benefits of sampling-based methods and the exploitation benefits of optimization-based approaches.
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
@@ -21,9 +21,19 @@ There should be whitespace between paragraphs. We recommend including a README, 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. -->
 
 ## Research
+
+**Dynamic Inference on Graphs using Structured Transition Models**
+
+**Saumya Saxena** and Oliver Kroemer. International Conference on Intelligent Robots and Systems (IROS), Oct 2022. [[Link]](https://drive.google.com/file/d/1PxC992InIZnlkQPtywqSJLl4iIrz5Pl6/view?usp=sharing) [[Video]](https://drive.google.com/file/d/18jZZvV4-YnDgiT4YT_qbzL_tFfLFT4WR/view?usp=sharing)
+
+**Search-Based Task Planning with Learned Skill Effect Models for Lifelong Robotic Manipulation**
+
+Jacky Liang, Mohit Sharma, Alex LaGrassa, Shivam Vats, **Saumya Saxena** and Oliver Kroemer. International Conference on Robotics and Automation (ICRA), May 2022. [[Link]](https://www.ri.cmu.edu/app/uploads/2022/08/Search-Based_Task_Planning_with_Learned_Skill_Effect_Models_for_Lifelong_Robotic_Manipulation.pdf) [[Website]](https://www.youtube.com/watch?v=lK0Zro_Yca0&t=2s)
+
+
 **Learning Reactive and Predictive Differentiable Controllers for Switching Linear Dynamical Models**
 
-**Saumya Saxena**, Alex LaGrassa, Oliver Kroemer. International Conference on Robotics and Automation (ICRA), May 2021. [[Link]](https://arxiv.org/abs/2103.14256) [[Video]](https://drive.google.com/file/d/1h6rUuUggg2_t061J_DMKME4cLBj12fAG/view?usp=sharing)
+**Saumya Saxena**, Alex LaGrassa and Oliver Kroemer. International Conference on Robotics and Automation (ICRA), May 2021. [[Link]](https://arxiv.org/abs/2103.14256) [[Video]](https://drive.google.com/file/d/1h6rUuUggg2_t061J_DMKME4cLBj12fAG/view?usp=sharing)
 
 **Learning Active Task-Oriented Exploration Policies for Bridging the Sim-to-Real Gap**
 
