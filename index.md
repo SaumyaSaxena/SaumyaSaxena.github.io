@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Hello! I am a third year Ph.D. student at the Robotics Institute at Carnegie Mellon University and am advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/).
+Hello! I am a fourth year Ph.D. student at the Robotics Institute at Carnegie Mellon University and am advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/).
 
 My research interests lie in using differentiable optimal and robust control algorithms for learning robot control in sensory-deprived environments for achieving dynamic and interactive tasks. My long-term goal is to develop control paradigms for assistive robotic systems in the real-world and equip robots with skills that demonstrate their ability to work alongside humans in an assistive and caregiving role. I believe that for real-world application of robotics in everyday tasks, it is imperative that we take inspiration from humans and develop systems and control methodologies that utilize robot full body dynamics and support from the environment while ensuring implicit metrics of safety.
 
@@ -24,11 +24,11 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 **Dynamic Inference on Graphs using Structured Transition Models**
 
-**Saumya Saxena** and Oliver Kroemer. International Conference on Intelligent Robots and Systems (IROS), Oct 2022. [[Link]](https://drive.google.com/file/d/1PxC992InIZnlkQPtywqSJLl4iIrz5Pl6/view?usp=sharing) [[Video]](https://drive.google.com/file/d/18jZZvV4-YnDgiT4YT_qbzL_tFfLFT4WR/view?usp=sharing)
+**Saumya Saxena** and Oliver Kroemer. International Conference on Intelligent Robots and Systems (IROS), Oct 2022. [[Link]](https://arxiv.org/abs/2209.15132) [[Video]](https://youtu.be/A9YG8VrIpgQ)
 
 **Search-Based Task Planning with Learned Skill Effect Models for Lifelong Robotic Manipulation**
 
-Jacky Liang, Mohit Sharma, Alex LaGrassa, Shivam Vats, **Saumya Saxena** and Oliver Kroemer. International Conference on Robotics and Automation (ICRA), May 2022. [[Link]](https://www.ri.cmu.edu/app/uploads/2022/08/Search-Based_Task_Planning_with_Learned_Skill_Effect_Models_for_Lifelong_Robotic_Manipulation.pdf) [[Website]](https://www.youtube.com/watch?v=lK0Zro_Yca0&t=2s)
+Jacky Liang, Mohit Sharma, Alex LaGrassa, Shivam Vats, **Saumya Saxena** and Oliver Kroemer. International Conference on Robotics and Automation (ICRA), May 2022. [[Link]](https://www.ri.cmu.edu/app/uploads/2022/08/Search-Based_Task_Planning_with_Learned_Skill_Effect_Models_for_Lifelong_Robotic_Manipulation.pdf) [[Website]](https://sites.google.com/view/sem-for-lifelong-manipulation)
 
 
 **Learning Reactive and Predictive Differentiable Controllers for Switching Linear Dynamical Models**
