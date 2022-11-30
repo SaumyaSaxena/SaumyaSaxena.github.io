@@ -1,14 +1,14 @@
 title: Saumya Saxena
 logo: /images/iceberg_lake.jpg
 # description: Minimal is a theme for GitHub Pages.
-# show_downloads: true
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 
 # Site Author
 author:
   links:
-    - label: "blakeb@andrew.cmu.edu"
+    - label: "saumyas@andrew.cmu.edu"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
@@ -16,13 +16,13 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/blakerbuchanan"
+      url: "https://twitter.com/saxena_saumya"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/blakerbuchanan/"
+      url: "https://www.linkedin.com/in/saumyasaxena/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/blakerbuchanan"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/SaumyaSaxena"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url: "https://instagram.com/"
