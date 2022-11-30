@@ -4,6 +4,7 @@ logo: /images/iceberg_lake.jpg
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+cv_url: https://drive.google.com/file/d/14sy7RQlhJdVefQQ1ae-rS51pHvTnA51Q/view
 
 # Site Author
 author:
@@ -23,9 +24,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SaumyaSaxena"
-    - label: "CV"
-      icon: "fab fa-fw fa-github"
-      url: "https://drive.google.com/file/d/14sy7RQlhJdVefQQ1ae-rS51pHvTnA51Q/view"
+    # - label: "CV"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://drive.google.com/file/d/14sy7RQlhJdVefQQ1ae-rS51pHvTnA51Q/view"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   # url: "https://instagram.com/"
