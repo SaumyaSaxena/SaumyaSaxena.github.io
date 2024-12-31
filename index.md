@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-Hello! I am a fourth year Ph.D. student at the Robotics Institute at Carnegie Mellon University and am advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/).
+## Biography
+Hello! I am a Ph.D. candidate at the Robotics Institute at Carnegie Mellon University and am advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/).
 
 My research interests lie in enabling robots to perform dynamic and interactive tasks using structural and algorithmic priors with the intent of learning stable dynamic models and optimal skills that generalize to more complex environments and tasks. My long-term goal is to develop control paradigms for assistive robotic systems in the real-world and equip robots with skills that demonstrate their ability to work alongside humans in an assistive and caregiving role. I believe that for real-world application of robotics in everyday tasks, it is imperative that we take inspiration from humans and develop systems and control methodologies that utilize robot full body dynamics and support from the environment while ensuring implicit metrics of safety.
 
@@ -20,32 +21,64 @@ There should be whitespace between paragraphs. We recommend including a README, 
 > When something is important enough, you do it even if the odds are not in your favor.
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. -->
 
+---
+
 ## Research
+
+**GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering**
+
+**Saumya Saxena**, Blake Buchanan, Chris Paxton, Bingqing Chen, Narunas Vaskevicius, Luigi Palmieri, Jonathan Francis, and Oliver Kroemer. arXiv, 2024 [[arXiv]](https://www.arxiv.org/abs/2412.14480) [[Website]](https://saumyasaxena.github.io/grapheqa/)
+
+![GraphEQA](/assets/img/teaser.png "GraphEQA Overview")
+
+---
+
+**MResT: Multi-Resolution Sensing for Real-Time Control with Vision-Language Models**
+
+**Saumya Saxena**, Mohit Sharma, and Oliver Kroemer. Conference on Robot Learning (CoRL), 2023 [[arXiv]](https://arxiv.org/abs/2401.14502) [[Website]](https://mohitsharma0690.github.io/multi-res-real-time-control/)
+
+![MResT](/assets/img/mrest_teaser.png "MResT Overview")
+
+---
 
 **Dynamic Inference on Graphs using Structured Transition Models**
 
-**Saumya Saxena** and Oliver Kroemer. International Conference on Intelligent Robots and Systems (IROS), Oct 2022. [[Link]](https://arxiv.org/abs/2209.15132) [[Video]](https://youtu.be/A9YG8VrIpgQ)
+**Saumya Saxena** and Oliver Kroemer. International Conference on Intelligent Robots and Systems (IROS), Oct 2022. [[arXiv]](https://arxiv.org/abs/2209.15132) [[Video]](https://youtu.be/A9YG8VrIpgQ)
+
+![Dynamic Inference](/assets/img/dyninf_teaser.png "Dynamic Inference Overview")
+
+---
 
 **Search-Based Task Planning with Learned Skill Effect Models for Lifelong Robotic Manipulation**
 
-Jacky Liang, Mohit Sharma, Alex LaGrassa, Shivam Vats, **Saumya Saxena** and Oliver Kroemer. International Conference on Robotics and Automation (ICRA), May 2022. [[Link]](https://www.ri.cmu.edu/app/uploads/2022/08/Search-Based_Task_Planning_with_Learned_Skill_Effect_Models_for_Lifelong_Robotic_Manipulation.pdf) [[Website]](https://sites.google.com/view/sem-for-lifelong-manipulation)
+Jacky Liang, Mohit Sharma, Alex LaGrassa, Shivam Vats, **Saumya Saxena** and Oliver Kroemer. International Conference on Robotics and Automation (ICRA), May 2022. [[Paper]](https://www.ri.cmu.edu/app/uploads/2022/08/Search-Based_Task_Planning_with_Learned_Skill_Effect_Models_for_Lifelong_Robotic_Manipulation.pdf) [[Website]](https://sites.google.com/view/sem-for-lifelong-manipulation)
+
+---
 
 
 **Learning Reactive and Predictive Differentiable Controllers for Switching Linear Dynamical Models**
 
-**Saumya Saxena**, Alex LaGrassa and Oliver Kroemer. International Conference on Robotics and Automation (ICRA), May 2021. [[Link]](https://arxiv.org/abs/2103.14256) [[Video]](https://drive.google.com/file/d/1h6rUuUggg2_t061J_DMKME4cLBj12fAG/view?usp=sharing)
+**Saumya Saxena**, Alex LaGrassa and Oliver Kroemer. International Conference on Robotics and Automation (ICRA), May 2021. [[arXiv]](https://arxiv.org/abs/2103.14256) [[Video]](https://drive.google.com/file/d/1h6rUuUggg2_t061J_DMKME4cLBj12fAG/view?usp=sharing)
+
+---
 
 **Learning Active Task-Oriented Exploration Policies for Bridging the Sim-to-Real Gap**
 
-Jacky Liang, **Saumya Saxena**, Oliver Kroemer. Robotics: Science and Systems (RSS), July 2020. [[Link]](https://arxiv.org/abs/2006.01952) [[Website]](https://sites.google.com/view/task-oriented-exploration/)
+Jacky Liang, **Saumya Saxena**, Oliver Kroemer. Robotics: Science and Systems (RSS), July 2020. [[arXiv]](https://arxiv.org/abs/2006.01952) [[Website]](https://sites.google.com/view/task-oriented-exploration/)
+
+---
 
 **A Real-time Augmented Reality Surgical System for Overlaying Stiffness Information**
 
-Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, **Saumya Saxena**, Mengyun Xu, Kartik Patath and Howie Choset. Proceedings of Robotics: Science and Systems (RSS), June 2018. [[Link]](http://www.roboticsproceedings.org/rss14/p26.pdf)
+Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, **Saumya Saxena**, Mengyun Xu, Kartik Patath and Howie Choset. Proceedings of Robotics: Science and Systems (RSS), June 2018. [[Paper]](http://www.roboticsproceedings.org/rss14/p26.pdf)
+
+---
 
 **A surgical system for automatic registration, stiffness mapping and dynamic image overlay**
 
-Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, **Saumya Saxena**, Mengyun Xu, Kartik Patath and Howie Choset. Proceedings of International Symposium on Medical Robotics (ISMR), March 2018. [[Link]](https://arxiv.org/abs/1711.08828) [[Video]](https://www.youtube.com/watch?v=IM5ffxARPs8)
+Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, **Saumya Saxena**, Mengyun Xu, Kartik Patath and Howie Choset. Proceedings of International Symposium on Medical Robotics (ISMR), March 2018. [[arXiv]](https://arxiv.org/abs/1711.08828) [[Video]](https://www.youtube.com/watch?v=IM5ffxARPs8)
+
+---
 
 ## Technical Reports
 
@@ -53,9 +86,13 @@ Nicolas Zevallos, Arun Srivatsan Rangaprasad, Hadi Salman, Lu Li, Jianing Qian, 
 
 **Saumya Saxena**, Matthew Travers, Howie Choset. Masters Thesis report, August 2019. [[Report]](https://drive.google.com/file/d/1kAYCjeb86sbVWK4X0whL1eV5EPNjI78V/view?usp=sharing)
 
+---
+
 **Coverage Using Graph-based Motion Planning for Autonomous Exploration Of Non-uniform Environments**
 
 **Saumya Saxena**. May 2018. [[Report]](https://drive.google.com/file/d/1LkqrmiertXgmVSREExRnlyK5FkVRbSud/view?usp=sharing) [[Video1]](https://drive.google.com/file/d/1Ol9Tc4U2Lroy83n4GGqObIbyRGPclQ4O/view?usp=sharing) [[Video2]](https://drive.google.com/file/d/1HLx9kexSj51lCgQDWbKTUhiKoV_OwcP_/view?usp=sharing)
+
+---
 
 **CatAstroφ - Inertial reorientation of a freely falling cat using non-holonomic motion planning**
 

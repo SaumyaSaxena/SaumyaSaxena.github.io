@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -15,9 +16,9 @@
   <body>
     <div class="wrapper">
       <header>
-        <!-- <h1 style="color:black;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
+        <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
         <h1 style="color:black;">Saumya Saxena</h1>
-
+        
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -28,12 +29,23 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
-        {% if site.github.is_user_page %}
+        {% if site.is_user_page %}
         <!-- <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p> -->
-        <p>Ph.D. student, Robotics Institute <br> 
-        Carnegie Mellon University <br>
-        saumyas@andrew.cmu.edu <br>
-        <a href="{{ site.cv_url }}"> CV </a>
+        <p>Ph.D. Candidate, Robotics Institute <br> 
+          Carnegie Mellon University <br>
+          <br>
+          <a href="{{ site.cv_url }}" target="_blank"> 
+            <i class="fa-solid fa-fw fa-2x fa-file"></i>
+          </a>
+          <a href="mailto:saumyas@andrew.cmu.edu" target="_blank">
+            <i class="fas fa-fw fa-2x fa-envelope-square"></i>
+          </a>
+          <a href="https://github.com/SaumyaSaxena" target="_blank">
+            <i class="fab fa-fw fa-2x fa-github"></i>
+          </a>
+          <a href="https://www.linkedin.com/in/saumyasaxena/" target="_blank">
+            <i class="fab fa-fw fa-2x fa-linkedin"></i>
+          </a> <br>
         </p>
         {% endif %}
 
