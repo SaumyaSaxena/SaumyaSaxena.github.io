@@ -25,6 +25,14 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Research
 
+**Safe Manipulation via Task-Relevant Reach-Avoid Reinforcement Learning**
+
+**Saumya Saxena**, Andrea Bajcsy, and Oliver Kroemer. arXiv, 2024 [[Paper]](/assets/papers/Semantic_Safety_Manip_2025_full.pdf)
+
+![SemSafetyOverview](/assets/img/system_diag.png "Method Overview")
+
+---
+
 **GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering**
 
 **Saumya Saxena**, Blake Buchanan, Chris Paxton, Bingqing Chen, Narunas Vaskevicius, Luigi Palmieri, Jonathan Francis, and Oliver Kroemer. arXiv, 2024 [[arXiv]](https://www.arxiv.org/abs/2412.14480) [[Website]](https://saumyasaxena.github.io/grapheqa/)
