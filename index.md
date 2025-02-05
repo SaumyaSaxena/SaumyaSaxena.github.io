@@ -2,11 +2,24 @@
 layout: default
 ---
 ## Biography
-Hello! I am a Ph.D. candidate at the Robotics Institute at Carnegie Mellon University and am advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/).
+Hello! I am a Ph.D. candidate at the Robotics Institute at Carnegie Mellon University. I am advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/) and work in close collaboration with [Prof. Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/).
 
-My research interests lie in enabling robots to perform dynamic and interactive tasks using structural and algorithmic priors with the intent of learning stable dynamic models and optimal skills that generalize to more complex environments and tasks. My long-term goal is to develop control paradigms for assistive robotic systems in the real-world and equip robots with skills that demonstrate their ability to work alongside humans in an assistive and caregiving role. I believe that for real-world application of robotics in everyday tasks, it is imperative that we take inspiration from humans and develop systems and control methodologies that utilize robot full body dynamics and support from the environment while ensuring implicit metrics of safety.
+My research lies at the intersection of robot learning, control, and perception, with a focus on integrating semantic, structural, and algorithmic priors to develop generalizable and safe robot policies. I am particularly interested in leveraging large-scale foundation models for semantic scene understanding to perform embodied tasks in novel environments as well for enabling robots to understand and adhere to semantic safety constraints in dynamic and interactive settings. My long-term goal is to develop robots that can operate safely in unstructured environments, perform complex dynamic and interactive tasks, and collaborate with humans in assistive and caregiving roles.
 
-Prior to joining the Ph.D. program, I worked under the supervision of [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) and [Dr. Matthew Travers](https://www.ri.cmu.edu/ri-faculty/matthew-j-travers/) on developing a belief space planning framework for utilizing contacts to reduce uncertainty by combining the exploration benefits of sampling-based methods and the exploitation benefits of optimization-based approaches.
+ <!-- I am particularly interested in leveraging large-scale foundation models for semantic reasoning -- enabling robots to understand and adhere to safety constraints as well as for semantic scene understanding for embodied tasks in novel environments.  -->
+
+ <!-- My work explores reachability-based methods for dynamic and interactive contac-rich manipulation tasks and embodied question answering using task and scene understanding.  -->
+
+<!-- My research interests are broadly aligned towards leveraging semantic, structural and algorithmic priors for learning generalizable and safe robot policies.  -->
+
+<!-- My current research focuses on leveraging the semantic reasoning capabilities of large scale foundation models towards enabling semantic safety and embodied question answering in unseen environments. 
+My long-term goal lies in enabling robots to perform contact-rich dynamic and interactive tasks in the real world and equip robots with skills to work alongside humans in an assistive and caregiving role while ensuring implicit and explicit metrics of safety. -->
+
+<!-- and learning stable compositional dynamic models and differentiable optimal skills that generalize to more complex environments and tasks.  -->
+<!-- My long-term goal is to learn robot policies for assistive robotic systems in the real-world and equip robots with skills that demonstrate their ability to work alongside humans in an assistive and caregiving role. I believe that for real-world application of robotics in everyday tasks, it is imperative that we take inspiration from humans and develop systems and control methodologies that utilize robot full body dynamics and support from the environment while ensuring implicit metrics of safety. -->
+
+Prior to joining the Ph.D. program, I worked under the supervision of [Prof. Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) and [Dr. Matthew Travers](https://www.ri.cmu.edu/ri-faculty/matthew-j-travers/) on developing a belief space planning framework for utilizing contacts to reduce uncertainty.
+ <!-- by combining the exploration benefits of sampling-based methods and the exploitation benefits of optimization-based approaches. -->
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 <!-- [Link to another page](./another-page.html).
@@ -27,7 +40,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 **Safe Manipulation via Task-Relevant Reach-Avoid Reinforcement Learning**
 
-**Saumya Saxena**, Andrea Bajcsy, and Oliver Kroemer. arXiv, 2024 [[Paper]](/assets/papers/Semantic_Safety_Manip_2025_full.pdf)
+**Saumya Saxena**, Andrea Bajcsy, and Oliver Kroemer. 2024 [[Paper]](/assets/papers/Semantic_Safety_Manip_2025_full.pdf)
 
 ![SemSafetyOverview](/assets/img/system_diag.png "Method Overview")
 
