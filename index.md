@@ -4,8 +4,11 @@ layout: default
 ## Biography
 Hello! I am a Ph.D. candidate at the Robotics Institute at Carnegie Mellon University. I am advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/) and work in close collaboration with [Prof. Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/).
 
+<!-- My research lies at the intersection of robot learning, control, and perception, with a focus on leveraging semantic, structural, and algorithmic priors to develop generalizable and safe robot policies. I am particularly interested in leveraging large-scale foundation models for semantic scene understanding to perform interactive tasks such as embodied question answering and semantic constraint adherence in novel environments. My long-term goal is to develop robots that can operate safely in unstructured environments, perform complex dynamic and interactive tasks, and collaborate with humans in assistive and caregiving roles. -->
+
 My research lies at the intersection of robot learning, control, and perception, with a focus on integrating semantic, structural, and algorithmic priors to develop generalizable and safe robot policies. I am particularly interested in leveraging large-scale foundation models for semantic scene understanding to perform embodied tasks in novel environments as well for enabling robots to understand and adhere to semantic safety constraints in dynamic and interactive settings. My long-term goal is to develop robots that can operate safely in unstructured environments, perform complex dynamic and interactive tasks, and collaborate with humans in assistive and caregiving roles.
 
+<!-- such as identifying and adhering to semantic safety constraints. -->
  <!-- I am particularly interested in leveraging large-scale foundation models for semantic reasoning -- enabling robots to understand and adhere to safety constraints as well as for semantic scene understanding for embodied tasks in novel environments.  -->
 
  <!-- My work explores reachability-based methods for dynamic and interactive contac-rich manipulation tasks and embodied question answering using task and scene understanding.  -->
@@ -38,7 +41,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Research
 
-**Safe Manipulation via Task-Relevant Reach-Avoid Reinforcement Learning**
+**Safe Manipulation via Task-Relevant Reach-Avoid Reinforcement Learning** (Under review)
 
 **Saumya Saxena**, Andrea Bajcsy, and Oliver Kroemer. 2024 [[Paper]](/assets/papers/Semantic_Safety_Manip_2025_full.pdf)
 
@@ -46,7 +49,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ---
 
-**GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering**
+**GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering** (Under review)
 
 **Saumya Saxena**, Blake Buchanan, Chris Paxton, Bingqing Chen, Narunas Vaskevicius, Luigi Palmieri, Jonathan Francis, and Oliver Kroemer. arXiv, 2024 [[arXiv]](https://www.arxiv.org/abs/2412.14480) [[Website]](https://saumyasaxena.github.io/grapheqa/)
 
