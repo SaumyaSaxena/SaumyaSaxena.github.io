@@ -43,7 +43,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 **Safe Manipulation via Task-Relevant Reach-Avoid Reinforcement Learning** (Under review)
 
-**Saumya Saxena**, Andrea Bajcsy, and Oliver Kroemer. 2024 [[Paper]](/assets/papers/Semantic_Safety_Manip_2025_full.pdf)
+**Saumya Saxena**, Andrea Bajcsy, and Oliver Kroemer. 2025 [[Paper]](/assets/papers/Semantic_Safety_Manip_2025_full.pdf)
 
 ![SemSafetyOverview](/assets/img/system_diag.png "Method Overview")
 
