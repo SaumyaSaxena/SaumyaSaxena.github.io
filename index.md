@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Biography
-Hello! I am a Ph.D. candidate at the Robotics Institute at Carnegie Mellon University. I am advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/) and work in close collaboration with [Prof. Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/).
+Hello! I am a Ph.D. candidate in the Robotics Institute at Carnegie Mellon University. I am advised by [Prof. Oliver Kroemer](https://www.ri.cmu.edu/ri-faculty/oliver-kroemer/) and work in close collaboration with [Prof. Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/).
 
 <!-- My research lies at the intersection of robot learning, control, and perception, with a focus on leveraging semantic, structural, and algorithmic priors to develop generalizable and safe robot policies. I am particularly interested in leveraging large-scale foundation models for semantic scene understanding to perform interactive tasks such as embodied question answering and semantic constraint adherence in novel environments. My long-term goal is to develop robots that can operate safely in unstructured environments, perform complex dynamic and interactive tasks, and collaborate with humans in assistive and caregiving roles. -->
 
