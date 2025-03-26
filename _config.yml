@@ -4,7 +4,8 @@ logo: /assets/img/saumyasaxena_cropped.jpeg
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-cv_url: https://drive.google.com/file/d/14sy7RQlhJdVefQQ1ae-rS51pHvTnA51Q/view
+# cv_url: https://drive.google.com/file/d/14sy7RQlhJdVefQQ1ae-rS51pHvTnA51Q/view
+cv_url: https://SaumyaSaxena.github.io/assets/cv/Saumya_Saxena_Resume_PhD.pdf
 is_user_page: true
 # Site Author
 author:
