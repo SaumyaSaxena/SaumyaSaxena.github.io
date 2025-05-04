@@ -46,7 +46,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 **Vision-Language Guided Safe Dynamic Manipulation via Object-Centric Transformers** (Under review)
 
-**Saumya Saxena**, Andrea Bajcsy, and Oliver Kroemer. 2025 [[Paper]](/assets/papers/safety_manipulation_2025.pdf)
+**Saumya Saxena**, Andrea Bajcsy, and Oliver Kroemer. 2025 [[Paper]](/assets/papers/safety_manipulation_2025_arxiv_v1.pdf)
 
 ![SemSafetyOverview](/assets/img/safety_teaser.png "Method Overview")
 
