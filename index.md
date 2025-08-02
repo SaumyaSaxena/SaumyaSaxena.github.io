@@ -52,7 +52,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ---
 
-**GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering** (Under review)
+**GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering**
 
 **Saumya Saxena**, Blake Buchanan, Chris Paxton, Peiqi Liu, Bingqing Chen, Narunas Vaskevicius, Luigi Palmieri, Jonathan Francis, and Oliver Kroemer. Conference on Robot Learning (CoRL), 2025 [[arXiv]](https://www.arxiv.org/abs/2412.14480) [[Website]](https://saumyasaxena.github.io/grapheqa/)
 
